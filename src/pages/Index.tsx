@@ -91,7 +91,7 @@ const Index = () => {
               <Icon name="Link2" className="text-primary-foreground" size={28} />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-foreground">Форум Mellero</h1>
+              <h1 className="text-3xl font-bold text-foreground">Форум ссылок для программирования от Mellero</h1>
               <p className="text-muted-foreground">Важные ресурсы и информация</p>
             </div>
           </div>
